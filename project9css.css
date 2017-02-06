@@ -1,0 +1,40 @@
+.box1 {
+width: 400px;
+height: 80px;
+background-color: yellow;
+margin: auto;
+}
+
+.box2 {
+width: 400px;
+height: 80px;
+background-color: green;
+margin: auto;
+}
+
+.box3 {
+width: 400px;
+height: 80px;
+background-color: red;
+margin: auto;
+}
+
+.bin1 {
+height: 240px;
+width: 133px;
+background-color: yellow;
+margin: 100px 0px 0px 50px;
+border-style: solid;
+border-left-color: blue;
+border-right-color: red;
+border-left-height: 133px;
+border-right-height: 133px;
+}
+
+.bin2 {
+width: 300px;
+height: 375px;
+margin: 100px 0px 0px 100px;
+border: 5px dashed red;
+padding: 10px 5px 10px 5px;
+}
