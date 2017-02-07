@@ -25,10 +25,8 @@ width: 133px;
 background-color: yellow;
 margin: 100px 0px 0px 50px;
 border-style: solid;
-border-left-color: blue;
-border-right-color: red;
-border-left-height: 133px;
-border-right-height: 133px;
+border-left: 133px solid blue;
+border-right: 133px solid red;
 }
 
 .bin2 {
